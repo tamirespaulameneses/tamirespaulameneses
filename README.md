@@ -1,7 +1,6 @@
 ![Profile views](https://gpvc.arturio.dev/tamirespaulameneses)  
 
 ### Olá 👋, Meu nome é Tamires
-Atualmente programadora na Yank.
 
 Participante do XP #39 na Gama Academy, com conclusão prevista para o final de dezembro de 2021.
 
