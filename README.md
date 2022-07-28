@@ -1,10 +1,8 @@
 ![Profile views](https://gpvc.arturio.dev/tamirespaulameneses)  
 
-### Olá 👋, Meu nome é Tamires
+### Olá 👋
 
-Participante do XP #39 na Gama Academy, com conclusão prevista para o final de dezembro de 2021.
-
-Aqui você encontrará projetos realizados durante o bootcamp, cursos e projetos pessoais.
+Estudante de Engenharia da computação na faculdade Impacta. 
 
 
 #### Contato: 
