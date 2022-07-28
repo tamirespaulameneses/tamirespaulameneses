@@ -18,6 +18,4 @@ Estudante de Engenharia da computação na faculdade Impacta.
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 
 #### Estatisticas do GitHub
-![Tamires PaulaGitHub stats](https://github-readme-stats.vercel.app/api?username=tamirespaulameneses&show_icons=true&theme=dark) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tamirespaulameneses&layout=compact&theme=dark)]####
-
-#####(https://github.com/tamirespaulameneses/github-readme-stats) 
+![Tamires PaulaGitHub stats](https://github-readme-stats.vercel.app/api?username=tamirespaulameneses&show_icons=true&theme=dark) 
